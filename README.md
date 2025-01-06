@@ -1,2 +1,4 @@
 # GeoCodes
- A mobile game project made with the GameMaker engine
+ A cross platform game project made with the GameMaker engine.
+
+
